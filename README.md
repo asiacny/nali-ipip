@@ -1,3 +1,5 @@
+#2018-07-30 已修改支持ipip最新datx格式（数据库更小更快）
+
 # nali-ipip
 a fork of http://www.surfchen.org/nali using ipip ipdb (http://ipip.net)
 
